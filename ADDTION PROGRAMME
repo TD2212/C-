@@ -5,7 +5,7 @@ int main()
 {
    int a,b;
     clrscr();
-    //Declaring two varible for addtion programme
+    //Declaring two varible for addition programme
     cout<<"ENTER FIRST NUMBER"<<endl;
     cin>>a;
     cout<<"ENTER SECOND NUMBER"<<endl;
