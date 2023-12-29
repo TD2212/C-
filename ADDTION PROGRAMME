@@ -12,4 +12,5 @@ int main()
     cin>>b;
     cout<<"ANSWER="<<a+b;
     getch();
+    return 0;
 }
