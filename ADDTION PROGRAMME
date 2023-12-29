@@ -1,0 +1,15 @@
+#include<iostream.h>
+#include<conio.h>
+using namespace std;
+int main()
+{
+   int a,b;
+    clrscr();
+    //Declaring two varible for addtion programme
+    cout<<"ENTER FIRST NUMBER"<<endl;
+    cin>>a;
+    cout<<"ENTER SECOND NUMBER"<<endl;
+    cin>>b;
+    cout<<"ANSWER="<<a+b;
+    getch();
+}
