@@ -1,0 +1,9 @@
+#included<iostream>
+using namespace std;
+int a=22 //globle variable 
+int main()
+{
+  int a=12;
+  cout<<"Globle Variable"<<::a<<endl;//Globle variable call by scope resolution operator
+  cout<<"Local Variable"<<a<<endl;//Local variable call
+}
